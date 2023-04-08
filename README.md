@@ -2,6 +2,8 @@
 
 My projects repo and notes for [Algorithms, Part I | Coursera](https://www.coursera.org/learn/algorithms-part1)
 
+[Course website](https://algs4.cs.princeton.edu/home/)
+
 ## Projects:
 
 [**00 Hello, World**](https://coursera.cs.princeton.edu/algs4/assignments/hello/specification.php) 
