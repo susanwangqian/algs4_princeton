@@ -2,6 +2,8 @@
 
 My projects repo and notes for [Algorithms, Part I | Coursera](https://www.coursera.org/learn/algorithms-part1)
 
+## Resources:
+
 [Course website](https://algs4.cs.princeton.edu/home/)
 
 ## Projects:
